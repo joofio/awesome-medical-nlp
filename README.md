@@ -17,6 +17,10 @@ list of respositories for NLP medical related
 - [BioFLAIR](https://github.com/shreyashub/BioFLAIR)
 - [MER-and-MEN](https://github.com/SendongZhao/Multi-Task-Learning-for-MER-and-MEN)
 - [NCBO Annotator](https://bioportal.bioontology.org/annotator)-  NCBO annotator
+- [ConceptMapper](https://uima.apache.org/downloads/sandbox/ConceptMapperAnnotatorUserGuide/ConceptMapperAnnotatorUserGuide.html)
+- [pharmcoNER](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04260-y)
 - 
+
+
 benchmark:  
 1. [BLUE_Benchmark](https://github.com/ncbi-nlp/BLUE_Benchmark)
